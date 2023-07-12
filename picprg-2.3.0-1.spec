@@ -1,1 +1,0 @@
-picprg.spec
